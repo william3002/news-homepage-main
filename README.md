@@ -16,11 +16,11 @@ Site web simples destinado a criar uma página inicial onde você pode navegar p
 - Design responsivo e acessível.
 
 ## Tamanho da tela 1440px
-[Desktop](design/desktop.png)
+![Desktop](design/desktop.png)
 
 ## Tamanho da tela 375px
-[Mobile](design/mobile.png)
-[mobile menu](design/mobile-menu.png)
+![Mobile](design/mobile.png)
+![Mobile-menu](design/mobile-menu.png)
 
 ## Licença
 
