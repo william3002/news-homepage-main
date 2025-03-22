@@ -28,5 +28,5 @@ Este projeto é licenciado sob a [MIT License](LICENSE).
 
 ## Contato
 
-- **Seu Nome**: williamaraujodossantos.com
+- **Nome do autor**: williamaraujodossantos.com
 - **GitHub**: [Meu GitHub](https://github.com/william3002)
